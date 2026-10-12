@@ -1,0 +1,24 @@
+{
+  "name": "Sync & Style — Digital Wedding Invitations",
+  "short_name": "Sync & Style",
+  "description": "Beautiful animated digital wedding invitation websites with RSVP, countdown and instant sharing.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f4ef",
+  "theme_color": "#0c0c0c",
+  "icons": [
+    {
+      "src": "/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
